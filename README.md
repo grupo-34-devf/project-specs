@@ -1,5 +1,7 @@
 # App de encuestas
 
+<img src="diagrama.png" width="700"/>
+
 # Roles:
 
     Creador de encuestas
