@@ -77,3 +77,5 @@
 11. Responder encuesta
     Las personas que tengan acceso al QR o link generado de una encuesta ya publicada, podrán responderla sin necesidad de tener alguna cuenta en la página
     Al terminar de responder la encuesta podrá dar clic en el botón de enviar el cual mostrará un mensaje de agradecimiento y esa persona no debería poder responder la misma encuesta
+
+12. El público en general pueder ver los resultados de las encuestas sin mostrar data sencible o privada
