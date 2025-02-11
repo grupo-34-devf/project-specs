@@ -1,0 +1,4 @@
+| Rutas              | Método | Parámetros | Body                                                         | Auth | Descripción             | Respuestas                                                |
+| ------------------ | ------ | ---------- | ------------------------------------------------------------ | ---- | ----------------------- | --------------------------------------------------------- |
+| /api/auth/register | POST   |            | `{ firstName, lastName, birthDay, email, password, gender }` |      | Registrar nuevo creador | status: 201 code NewUser status: 409 code DuplicatedUser  |
+| /api/auth/login    | POST   |            | `{ email, password }`                                        |      | Inicio de sesión        | status: 200 code: LoginSuccess status: 401 code: BadLogin |
